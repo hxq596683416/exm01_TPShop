@@ -1,0 +1,29 @@
+'2019-10-15 12:45:24,353 INFO [root] [app.py(<module>:62)] - haha,测试专用
+'2019-10-15 12:49:42,149 INFO [root] [UserAPI.py(login:21)] - 执行登录操作
+'2019-10-15 12:49:43,311 INFO [root] [UserAPI.py(login:21)] - 执行登录操作
+'2019-10-15 12:49:45,532 INFO [root] [UserAPI.py(login:21)] - 执行登录操作
+'2019-10-15 12:49:46,748 INFO [root] [UserAPI.py(login:21)] - 执行登录操作
+'2019-10-15 12:51:46,143 WARNING [root] [TestTPShopUser.py(test_get_verify_code:64)] - 开始测试验证码获取
+'2019-10-15 12:51:46,143 WARNING [root] [TestTPShopUser.py(test_get_verify_code:64)] - 开始测试验证码获取
+'2019-10-15 12:51:47,275 ERROR [root] [TestTPShopUser.py(test_login:97)] - 开始测试登录
+'2019-10-15 12:51:47,275 ERROR [root] [TestTPShopUser.py(test_login:97)] - 开始测试登录
+'2019-10-15 12:51:47,346 INFO [root] [UserAPI.py(login:21)] - 执行登录操作
+'2019-10-15 12:51:47,346 INFO [root] [UserAPI.py(login:21)] - 执行登录操作
+'2019-10-15 12:51:48,484 ERROR [root] [TestTPShopUser.py(test_login:97)] - 开始测试登录
+'2019-10-15 12:51:48,484 ERROR [root] [TestTPShopUser.py(test_login:97)] - 开始测试登录
+'2019-10-15 12:51:48,549 INFO [root] [UserAPI.py(login:21)] - 执行登录操作
+'2019-10-15 12:51:48,549 INFO [root] [UserAPI.py(login:21)] - 执行登录操作
+'2019-10-15 12:51:49,673 ERROR [root] [TestTPShopUser.py(test_login:97)] - 开始测试登录
+'2019-10-15 12:51:49,673 ERROR [root] [TestTPShopUser.py(test_login:97)] - 开始测试登录
+'2019-10-15 12:51:50,812 INFO [root] [UserAPI.py(login:21)] - 执行登录操作
+'2019-10-15 12:51:50,812 INFO [root] [UserAPI.py(login:21)] - 执行登录操作
+'2019-10-15 12:51:52,005 INFO [root] [UserAPI.py(login:21)] - 执行登录操作
+'2019-10-15 12:51:52,005 INFO [root] [UserAPI.py(login:21)] - 执行登录操作
+'2019-10-15 12:54:48,466 INFO [root] [UserAPI.py(login:20)] - 执行登录操作:username=13012345678 password=654321 verify_code=8888
+'2019-10-15 12:54:49,634 INFO [root] [UserAPI.py(login:20)] - 执行登录操作:username=1301234567A password=123456 verify_code=8888
+'2019-10-15 12:54:51,827 INFO [root] [UserAPI.py(login:20)] - 执行登录操作:username=13012345678 password=123456 verify_code=8888
+'2019-10-15 12:54:53,049 INFO [root] [UserAPI.py(login:20)] - 执行登录操作:username=13012345678 password=123456 verify_code=8888
+'2019-10-15 12:56:50,216 INFO [root] [UserAPI.py(login:20)] - 执行登录操作:username=13012345678 password=123456 verify_code=8888
+'2019-10-15 12:56:51,423 INFO [root] [UserAPI.py(login:20)] - 执行登录操作:username=1301234567A password=123456 verify_code=8888
+'2019-10-15 12:56:53,654 INFO [root] [UserAPI.py(login:20)] - 执行登录操作:username=13012345678 password=654321 verify_code=8888
+'2019-10-15 12:56:54,813 INFO [root] [UserAPI.py(login:20)] - 执行登录操作:username=13012345678 password=123456 verify_code=8888

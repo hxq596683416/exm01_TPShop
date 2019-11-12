@@ -1,0 +1,4 @@
+'2019-11-11 15:04:29,586 INFO [root] [UserAPI.py(login:20)] - 执行登录操作:username=13012345678 password=123456 verify_code=8888
+'2019-11-11 15:04:30,964 INFO [root] [UserAPI.py(login:20)] - 执行登录操作:username=1301234567A password=123456 verify_code=8888
+'2019-11-11 15:04:33,285 INFO [root] [UserAPI.py(login:20)] - 执行登录操作:username=13012345678 password=654321 verify_code=8888
+'2019-11-11 15:04:34,581 INFO [root] [UserAPI.py(login:20)] - 执行登录操作:username=13012345678 password=123456 verify_code=8888
